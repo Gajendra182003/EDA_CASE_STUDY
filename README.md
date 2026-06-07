@@ -138,7 +138,7 @@ Five board-ready, evidence-backed credit risk policy recommendations:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/finsight-bank-eda-credit-risk.git
+   git clone https://github.com/gajendra182003/finsight-bank-eda-credit-risk.git
    cd finsight-bank-eda-credit-risk
    ```
 
@@ -151,7 +151,7 @@ Five board-ready, evidence-backed credit risk policy recommendations:
 
 4. **Launch Jupyter and open the notebook**
    ```bash
-   jupyter notebook 260240325016_Gajendra_EDA_CASE_STUDY.ipynb
+   jupyter notebook Gajendra_EDA_CASE_STUDY.ipynb
    ```
 
 5. **Run all cells** sequentially from Phase 0 through Phase 6.
